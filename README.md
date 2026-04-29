@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @edsel9ra
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning PHP and Symfony
-- 💞️ I’m looking to collaborate on Python Projects and Web Development
+- 🌱 I’m currently learning PHP, Laravel and Symfony
+- 💞️ I’m looking to collaborate on Python Projects, Web Development or Laravel Projects
 - 📫 How to reach me edselramosc@outlook.com - edramosc@gmail.com
 
 <!---
